@@ -1,0 +1,22 @@
+body {
+  background-color: peru;
+}
+.form {
+  margin-top: 10%;
+}
+h1,
+h2 {
+  color: bisque;
+  text-align: center;
+  font-family: "Gruppo", sans-serif;
+}
+
+.button {
+  margin-left: 47.6%;
+  background-color: bisque;
+  color: peru;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 8px;
+  font-family: "Gruppo", sans-serif;
+}
